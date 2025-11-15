@@ -123,27 +123,34 @@ Sau khi deploy, cập nhật địa chỉ contract trong các file:
 ## 🏗️ Cấu trúc dự án
 
 ```
-GreenZone-Loc/
-├── contracts/
+├── contracts
 │   └── ProductRegistry.sol
-├── scripts/
-│   └── deploy.js
-├── src/
-│   ├── components/
-│   │   ├── MetaMaskConnect.js
-│   │   ├── Dashboard.js
-│   │   ├── ProductRegistration.js
-│   │   ├── ProductList.js
-│   │   └── SupplyChain.js
-│   ├── App.js
-│   ├── App.css
-│   ├── components.css
-│   └── index.js
-├── public/
+├── public
 │   └── index.html
+├── scripts
+│   ├── addSampleProducts.js
+│   └── deploy.js
+├── src
+│   ├── components
+│   │   ├── Dashboard.js
+│   │   ├── MetaMaskConnect.js
+│   │   ├── ProductList.js
+│   │   ├── ProductRegistration.js
+│   │   ├── SupplyChain.js
+│   │   └── demo.py
+│   ├── contracts
+│   │   ├── ProductRegistry.json
+│   │   └── contract-address.json
+│   ├── App.css
+│   ├── App.js
+│   ├── components.css
+│   ├── index.css
+│   └── index.js
+├── .gitignore
+├── README.md
 ├── hardhat.config.js
-├── package.json
-└── README.md
+├── package-lock.json
+└── package.json
 ```
 
 ## 🔒 Bảo mật
