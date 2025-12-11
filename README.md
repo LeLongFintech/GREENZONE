@@ -188,9 +188,7 @@ MIT License - xem file LICENSE để biết thêm chi tiết
 
 ## 📞 Liên hệ
 
-- Email: info@greenzone.vn
-- Website: https://greenzone.vn
-- GitHub: https://github.com/greenzone-loc
+- Email: hoanglongstudy210505@gmail.com
 
 ## 🙏 Cảm ơn
 
